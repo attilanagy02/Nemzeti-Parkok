@@ -1,0 +1,7 @@
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\bin\Debug\Nemzeti parkok.exe.config
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\bin\Debug\Nemzeti parkok.exe
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\bin\Debug\Nemzeti parkok.pdb
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\obj\Debug\Nemzeti parkok.csprojAssemblyReference.cache
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\obj\Debug\Nemzeti parkok.csproj.CoreCompileInputs.cache
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\obj\Debug\Nemzeti parkok.exe
+D:\School\C#\Nemzeti parkok\Nemzeti parkok\obj\Debug\Nemzeti parkok.pdb
