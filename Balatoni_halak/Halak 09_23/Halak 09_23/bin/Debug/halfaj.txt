@@ -1,0 +1,41 @@
+﻿süllő	1830	A	1	0
+márna	1887	C	0	0
+német bucó	1931	C	0	1
+dévér keszeg	1858	A	1	0
+garda	1830	A	1	0
+menyhal	1887	C	0	0
+karika keszeg	1830	A	1	0
+compó	1858	A	1	0
+szélhajtó küsz	1858	A	1	0
+selymes durbincs	1887	C	0	1
+szivárványos ökle	1887	A	1	1
+tarka géb	1840	C	0	1
+csuka	1858	A	1	0
+harcsa	1858	A	1	0
+vágó durbincs	1887	A	1	0
+angolna	1890	A	1	0
+állas küsz	1882	C	0	1
+felpillantó küllő	1895	C	1	1
+kövi csík	1858	B	1	1
+fenékjáró küllő	1858	A	1	1
+vörösszárnyú keszeg	1858	A	1	0
+kecsege	1887	C	0	0
+jászkeszeg	1895	C	1	0
+sebes pisztráng	1906	C	0	0
+lápi póc	1847	C	1	1
+fürge cselle	1858	B	1	1
+ezüst kárász	1858	B	1	0
+vágó csík	1858	B	1	1
+réti csík	1858	B	1	1
+kurta baing	1897	B	1	1
+sügér	1847	C	1	0
+balin	1858	A	1	0
+kárász	1858	A	1	0
+bodorka	1858	A	1	0
+kősüllő	1861	A	1	0
+magyar bucó	1931	C	0	1
+ponty	1858	A	1	0
+lapos keszeg	1858	C	1	0
+sujtásos küsz	1861	C	0	1
+bagoly keszeg	1887	C	1	0
+fejes domolyó	1858	C	1	0

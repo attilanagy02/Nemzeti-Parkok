@@ -1,0 +1,7 @@
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\bin\Debug\Halak 09_23.exe.config
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\bin\Debug\Halak 09_23.exe
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\bin\Debug\Halak 09_23.pdb
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\obj\Debug\Halak 09_23.csprojAssemblyReference.cache
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\obj\Debug\Halak 09_23.csproj.CoreCompileInputs.cache
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\obj\Debug\Halak 09_23.exe
+C:\11.E\Nagy Attila\Balatoni_halak\Halak 09_23\Halak 09_23\obj\Debug\Halak 09_23.pdb
